@@ -1,7 +1,7 @@
 ### CREATE SET ######
 #######  set duplicate not allowed  ###############
-# number={5.2,6,7,8,4,9,10,2,1,1}
-# print(number)  
+number={5.2,6,7,8,4,9,10,2,1,1}
+print(number)  
 ##set unodered datas  #################
 # flower={"rose","jasmine","lotus"}
 # print(flower)
@@ -33,10 +33,10 @@
 # print(set4)
 #######checking membership ###############
 
-flower={"rose","jasmine","4","dog"}
-print(flower)
-print("4" in flower)
-print("lilly" in flower)
+# flower={"rose","jasmine","4","dog"}
+# print(flower)
+# print("4" in flower)
+# print("lilly" in flower)
 
 # #### length of the set
 # print(len(fruits))
