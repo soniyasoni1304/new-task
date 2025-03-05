@@ -1,16 +1,16 @@
 ### CREATE SET ######
 #######  set duplicate not allowed  ###############
-number={5.2,6,7,8,4,9,10,2,1,1}
-print(number)  
+# number={5.2,6,7,8,4,9,10,2,1,1}
+# print(number)  
 ##set unodered datas  #################
 # flower={"rose","jasmine","lotus"}
 # print(flower)
 ################ add & remove & discard data in a set ##########
-# item={"rose","blue",34,"salary"}
+item={"rose","blue",34,"salary"}
 # print(item)
 ############### add the data in a set ########
-# item.add("yellow")
-# print(item)
+item.add("yellow")
+print(item)
 # ############### remove the data in a set  #########
 # item.remove("blue")
 # print(item)
